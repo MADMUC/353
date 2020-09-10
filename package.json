@@ -11,5 +11,8 @@
     "url": "github:madmuc:353"
   },
   "author": "ralph",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
